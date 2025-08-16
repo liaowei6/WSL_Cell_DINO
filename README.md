@@ -1,7 +1,7 @@
 <h1 align="center">WSL_CellDino</h1>
 <h2 align="center">WEAKLY SUPERVISED CELL SEGMENTATION AND TRACKING WITH TRANSFORMER</h2>
 
-![CellDino](figures/method.png)
+![CellDino](figures/new-arh.pdf)
 
 ## Table of Contents
 
